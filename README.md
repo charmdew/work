@@ -8,4 +8,4 @@
  <p>거북이를 그리는 drawTurtle이라는 함수를 따로 만들어서 그렸습니다.</p>
  <p>drawTurtle 함수의 파라미터 값을 변화하여 거북이의 위치, 크기를 조정할 수 있습니다.</p> 
  <br>
- <h2><a href= " " title= "꼬부기">꼬부기</a></h2>
+ <h2><a href= "https://jmyoo55.github.io/turtle-1/" title= "꼬부기">꼬부기</a></h2>
