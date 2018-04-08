@@ -1,6 +1,5 @@
 <html>
 <head>
-  <meta charset=utf-8">
 </head>
 <body>
 <h1>작품소개</h1>
