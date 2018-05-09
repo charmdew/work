@@ -7,7 +7,7 @@
  <p>거북이 캐릭터인 꼬부기를 프로세싱을 이용하여 만든 작품입니다.<br>
  거북이를 그리는 drawTurtle이라는 함수를 따로 만들어서 그렸습니다.<br>
  drawTurtle 함수의 파라미터 값을 변화하여 거북이의 위치, 크기를 조정할 수 있습니다.<br> 
- <a href= "https://jmyoo55.github.io/turtle-1/"_blank" title= "꼬부기">꼬부기</a></p>
+ <a href= "https://jmyoo55.github.io/turtle-1/" target="_blank" title= "꼬부기">꼬부기</a></p>
   <br>
  <h2>2. 유명작가 작품 변형</h2>
   <p><h3>(1)르네 마그리트 - 위대한 가족</h3>
